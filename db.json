@@ -1,5 +1,5 @@
 {    
-   "incidents": [
+   "openTickets": [
 	       {
 	         "ID": 0,
 	         "Title": "I'm bored hmu",
@@ -42,5 +42,21 @@
 	         "created": "2019-05-11T11:32:04.776Z",
 	         "closed": false
 	       }
-	     ]
+	     ],
+	"closedTickets": [
+	       {
+	         "ID": 6,
+	         "Title": "This is a closed incident",
+	         "Body": "My hair was on fire but im cool now i guess",
+	         "created": "2019-05-11T11:32:04.776Z",
+	         "closed": true
+	       },
+		{
+	         "ID": 7,
+	         "Title": "Gasonline ahhhh flames burn",
+	         "Body": "I AM ONN FIRE HELP HELP",
+	         "created": "2019-05-11T11:32:04.776Z",
+	         "closed": true
+	       }	
+	],
 }
