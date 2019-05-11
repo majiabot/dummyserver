@@ -1,5 +1,5 @@
 {    
-   "openTickets": [
+   "incidents": [
 	       {
 	         "ID": 0,
 	         "Title": "I'm bored hmu",
@@ -42,6 +42,5 @@
 	         "created": "2019-05-11T11:32:04.776Z",
 	         "closed": false
 	       }
-	     ],
-	
+	     ]
 }
