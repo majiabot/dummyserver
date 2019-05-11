@@ -1,5 +1,5 @@
-
-
+{
+   "incidents": {
      "incidents": [
        {
          "ID": 0,
@@ -44,5 +44,5 @@
          "closed": false
        }
      ]
- 
- 
+   }
+ }
