@@ -1,5 +1,5 @@
 {
-   "openTickets": [
+   "tickets":[
        {
          "ID": 0,
          "Title": "I'm bored hmu",
@@ -44,7 +44,3 @@
        }
    ]
 }
-
-
-  
-
