@@ -44,3 +44,22 @@
        }
    ]
 }
+
+{ 
+   "closedTickets": [
+      {
+         "ID": 6,
+         "Title": "This is a closed incident",
+         "Body": "Well that solved it... thanks heaps I guess? jeez haha",
+         "created": "2019-05-11T11:32:04.776Z",
+         "closed": true
+      },
+      {
+         "ID": 7,
+         "Title": "All done and solved, thanks heaps team",
+         "Body": "Did i change the title to thank the team? that shouldnt work!",
+         "created": "2019-05-11T11:32:04.776Z",
+         "closed": true
+      },
+   ]
+}
