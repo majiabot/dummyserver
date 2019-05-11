@@ -42,11 +42,8 @@
          "created": "2019-05-11T11:32:04.776Z",
          "closed": false
        }
-   ]
-}
-
-{ 
-   "closedTickets": [
+   ],
+    "closedTickets": [
       {
          "ID": 6,
          "Title": "This is a closed incident",
@@ -63,3 +60,7 @@
       },
    ]
 }
+
+
+  
+
