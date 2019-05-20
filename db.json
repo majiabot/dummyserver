@@ -6,7 +6,7 @@
 		         "Body": "I have nothing to do and I am super bored",
 			 "category": "Internet",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       },
 		       {
 		         "ID": 1,
@@ -14,7 +14,7 @@
 		         "Body": "When I try and do the internet it doesn't work at all!",
 			 "category": "Account",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       },
 		       {
 		         "ID": 2,
@@ -22,7 +22,7 @@
 		         "Body": "When i try and print, it doesn't work at all!!",
 			 "category": "Internet",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       },
 		       {
 		         "ID": 3,
@@ -30,7 +30,7 @@
 		         "Body": "test test test just a testity test test yay.",
 			 "category": "Hardware",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       },
 		       {
 		         "ID": 4,
@@ -38,7 +38,7 @@
 		         "Body": "This mind numbing, I should have just wrote a backend instead",
 			 "category": "Other",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       },
 		       {
 		         "ID": 5,
@@ -46,7 +46,7 @@
 		         "Body": "PYTHON IS THE WRST PROGGGRAMMMING LANGUAGE",
 			 "category": "Other",
 		         "created": "2019-05-11",
-		         "closed": false
+		         "closed": "false"
 		       }
 		     ] 
 	}
