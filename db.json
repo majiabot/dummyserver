@@ -12,7 +12,7 @@
 		         "ID": 1,
 		         "Title": "The internet isn't working",
 		         "Body": "When I try and do the internet it doesn't work at all!",
-			 "category": "Internet",
+			 "category": "Account",
 		         "created": "2019-05-11",
 		         "closed": false
 		       },
@@ -28,7 +28,7 @@
 		         "ID": 3,
 		         "Title": "Just testing out the ticket system",
 		         "Body": "test test test just a testity test test yay.",
-			 "category": "Internet",
+			 "category": "Hardware",
 		         "created": "2019-05-11",
 		         "closed": false
 		       },
@@ -36,7 +36,7 @@
 		         "ID": 4,
 		         "Title": "I hate writing these",
 		         "Body": "This mind numbing, I should have just wrote a backend instead",
-			 "category": "Internet",
+			 "category": "Other",
 		         "created": "2019-05-11",
 		         "closed": false
 		       },
@@ -44,7 +44,7 @@
 		         "ID": 5,
 		         "Title": "MATLAB IS DA BEST PROGRMING LANGURIDGE",
 		         "Body": "PYTHON IS THE WRST PROGGGRAMMMING LANGUAGE",
-			 "category": "Internet",
+			 "category": "Other",
 		         "created": "2019-05-11",
 		         "closed": false
 		       }
