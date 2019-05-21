@@ -6,7 +6,8 @@
 		         "Body": "While I realize that facebook is often a distraction, I need to interface with my clients",
 			 "category": "Internet",
 		         "created": "2019-05-11",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My workstation"
 		       },
 		       {
 		         "ID": 1,
@@ -14,7 +15,8 @@
 		         "Body": "I have forgotten the password to my company issued github account",
 			 "category": "Account",
 		         "created": "2019-05-10",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My house"
 		       },
 		       {
 		         "ID": 2,
@@ -22,7 +24,8 @@
 		         "Body": "When i try and print, it doesn't work at all!!",
 			 "category": "Hardware",
 		         "created": "2018-12-24",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My workstation"
 		       },
 		       {
 		         "ID": 3,
@@ -30,7 +33,8 @@
 		         "Body": "My hand slipped and now my keyboard is a sticky mess! I cannot even get a keystroke to register.",
 			 "category": "Hardware",
 		         "created": "2019-05-12",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My workstation"
 		       },
 		       {
 		         "ID": 4,
@@ -38,7 +42,8 @@
 		         "Body": "I have an idea for a great piece of software the company should purchase",
 			 "category": "Other",
 		         "created": "2019-05-01",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My workstation"
 		       },
 		       {
 		         "ID": 5,
@@ -46,7 +51,8 @@
 		         "Body": "MY workstation is plagued by fatal crashes every hour.  This causes me to lose alot of unsaved data",
 			 "category": "Other",
 		         "created": "2019-03-19",
-		         "closed": "false"
+		         "closed": "false",
+			 "location": "My workstation"
 		       }
 		     ] 
 	}
